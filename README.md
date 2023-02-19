@@ -11,6 +11,6 @@ Personal Portfolio using HTML and CSS
  
 <hr>
 #Task -3: <br>'
-Temperature Converter
+Temperature Converter using HTML, CSS and Javascript.
  
 
